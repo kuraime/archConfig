@@ -5,7 +5,7 @@ ZSH=$HOME/.config/zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="fino"
+ZSH_THEME="mytheme"
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
@@ -37,6 +37,7 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 alias weka="java -Xmx1000M -jar ~/Descargas/weka-3-6-10/weka.jar"
+alias glog="git log --oneline --graph"
 
 # Customize to your needs...
 export PATH=$PATH:/home/sisekeom/.gem/ruby/2.0.0/bin
