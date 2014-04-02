@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/sisekeom/.config/awesome'
+let g:netrw_dirhist_2='/home/sisekeom/.config/.cositas'
+let g:netrw_dirhist_3='/home/sisekeom/.config/awesome'
+let g:netrw_dirhist_4='/home/sisekeom/Documentos/Programacion/backoffice_process_manager/processes'
+let g:netrw_dirhist_5='/home/sisekeom/Documentos/Programacion/backoffice_process_manager/processes/pdf'
+let g:netrw_dirhist_6='/home/sisekeom/.emacs.d'
+let g:netrw_dirhist_7='/home/sisekeom/tmp/GITSERVER'
+let g:netrw_dirhist_8='/home/sisekeom/tmp/GITSERVER/conf'
+let g:netrw_dirhist_9='/home/sisekeom/tmp/GITSERVER/.git/branches'
